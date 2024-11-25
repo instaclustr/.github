@@ -4,7 +4,7 @@ The NetApp Instaclustr team is an active contributor to the open source communit
 
  
 
-Our code of conduct can be found [here](https://github.com/instaclustr/shotover-proxy/blob/main/CODE_OF_CONDUCT.md). 
+Our code of conduct can be found [here](https://github.com/shotover/shotover-proxy/blob/main/CODE_OF_CONDUCT.md). 
 
  
 
